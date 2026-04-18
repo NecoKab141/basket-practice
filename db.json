@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "title": "Apple",
+      "price": 25,
+      "id": "1"
+    },
+    {
+      "title": "Banana",
+      "price": 30,
+      "id": "2"
+    },
+    {
+      "title": "Bread",
+      "price": 20,
+      "id": "3"
+    },
+    {
+      "title": "Milk",
+      "price": 35,
+      "id": "4"
+    },
+    {
+      "title": "Cheese",
+      "price": 80,
+      "id": "5"
+    },
+    {
+      "title": "Tomato",
+      "price": 35,
+      "id": "6"
+    },
+    {
+      "title": "Cucumber",
+      "price": 25,
+      "id": "7"
+    },
+    {
+      "title": "Salad",
+      "price": 20,
+      "id": "8"
+    },
+    {
+      "title": "Orange",
+      "price": 50,
+      "id": "9"
+    },
+    {
+      "title": "Eggs",
+      "price": 45,
+      "id": "10"
+    }
+  ]
+}
